@@ -1,0 +1,6 @@
+name: 'Template typescript action'
+author: 'egrzeszczak'
+description: 'Typescript action template'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
